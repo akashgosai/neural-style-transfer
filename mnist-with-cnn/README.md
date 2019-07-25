@@ -1,0 +1,2 @@
+This is the code for a convolutional neural network based classifier for the famous MNIST set of images of hand-written digits and the corresponding labels.
+The developed cnn model contains convolutional layer followed by pooling layer followed by a fully connected neural network of two layers. The activation functions used are ReLu and at the last layer Softmax is employed.
